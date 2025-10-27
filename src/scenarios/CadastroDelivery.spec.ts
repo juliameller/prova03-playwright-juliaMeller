@@ -25,4 +25,3 @@ test.describe('Cadastro de usuário para delivery', () => {
     await cadastroPage.validarCNH();
   });
 });
-
